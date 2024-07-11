@@ -1,0 +1,13 @@
+Idea 1: 
+    Title- Recipe Finder
+        - A web application tat helps users find recipes based on dietary prefrences, ingredients and goals. 
+        - Users can sort through recipies and save their favorites based off prefrences.
+        - API- Spoonacular API 
+
+
+Idea 2:
+    Title- Movie Guide 
+        - Allow users to search for info about movies such as cast members,  release dates, and ratings about the film
+        -Users can create watchlists/ rate movies
+        - API- TMDb API
+
