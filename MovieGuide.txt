@@ -1,0 +1,75 @@
+Project Title: Movie Guide - Your Movie Information Hub
+Description:
+Movie Guide is a web application designed to help users find detailed information about movies, including cast, crew, release dates, and ratings. The platform leverages The Movie Database (TMDb) API to provide comprehensive movie data and user reviews. Users can create watchlists, rate movies, and get personalized movie recommendations based on their viewing history.
+
+Tech Stack
+Front-end: React
+Back-end: Node.js with Express
+Database: MongoDB
+API: The Movie Database (TMDb) API for movie data
+Version Control: Git and GitHub
+Focus
+This project will be an evenly focused full-stack application, ensuring a seamless user experience both on the front-end and the back-end.
+
+Type
+This will be a website.
+
+Goal
+The primary goal of Movie Guide is to provide users with an easy and efficient way to find comprehensive information about movies, manage their watchlists, and discover new movies based on their preferences.
+
+Users
+The target demographic for Movie Guide includes:
+
+Movie enthusiasts looking for detailed information about movies
+Users who want to create and manage their movie watchlists
+Individuals looking for personalized movie recommendations
+Users interested in reading and writing movie reviews
+Data
+Data Source: The Movie Database (TMDb) API
+
+Data Types:
+
+Movie details (title, cast, crew, release date, ratings)
+User preferences and watchlists
+User-generated ratings and reviews
+Data Collection Plan:
+
+Use TMDb API to fetch movie data.
+Store user preferences, watchlists, and ratings in MongoDB.
+Approach
+
+Database Schema:
+
+Users: Stores user information, preferences, and watchlists.
+Movies: Stores movie data fetched from TMDb API.
+Reviews: Stores user-generated movie ratings and reviews.
+API Issues:
+
+Functionality:
+
+User registration and login.
+Search movies by title, genre, or actor.
+View detailed movie information and user reviews.
+Create and manage movie watchlists.
+Rate and review movies.
+Receive personalized movie recommendations.
+
+User Flow:
+
+User registers and logs in.
+User searches for movies by title, genre, or actor.
+User views detailed movie information and reviews.
+User adds movies to watchlist and rates/reviews them.
+User receives personalized movie recommendations based on watchlist and ratings.
+
+Beyond CRUD:
+
+Personalized Recommendations: Use user preferences and watchlists to suggest new movies.
+Interactive UI: Dynamic search filters, real-time watchlist updates.
+Notifications: Optional email notifications for new releases or movie recommendations.
+
+Stretch Goals:
+
+Social Sharing: Allow users to share watchlists and reviews with friends.
+Community Features: Integrate forums or discussion boards for movie discussions.
+Advanced Search: Implement advanced search filters (e.g., by director, runtime, etc.).
